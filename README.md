@@ -1,10 +1,14 @@
 🚀 Databricks Self Training Journey @ InfoObjects
 📌 Introduction
-Welcome to my personal learning journey exploring Databricks during my time at InfoObjects. This README is a central place to capture my training progress, core concepts I’ve learned, hands-on activities I’ve done, and helpful resources I’ve used.
+Welcome to my personal learning journey exploring Databricks during my time at InfoObjects. 
+This README is a central place to capture my training progress, core concepts I’ve learned, hands-on activities I’ve done, and helpful resources I’ve used.
 
 🎯 Objectives
+
 My key learning goals are:
+
 ✅ Build a strong foundational understanding of Databricks
+
 ✅ Learn best practices for data engineering and analytics on the platform
 ✅ Apply concepts through real-world use cases and projects
 ✅ Keep a record of all learnings for future reference and sharing
